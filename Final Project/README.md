@@ -32,7 +32,7 @@ The circuit uses $V_{DD}=1.2\ \text{V}$ to bias the LO switch gates and maintain
 The measured conversion gain at $100\ \text{MHz}$ in the linear region is **11.7 dB**. :contentReference[oaicite:10]{index=10}
 
 > **Conversion gain**
-> ![Gain](./Gain.png)
+> ![Gain](./gain.png)
 
 ### Operating point: RF device saturation
 
@@ -45,7 +45,7 @@ $$
 This verifies the mixer is correctly biased for small-signal transconductance behavior at the RF input. :contentReference[oaicite:11]{index=11}
 
 > **Saturation check**
-> ![Saturation](./Saturation.png)
+> ![Saturation](./saturation.png)
 
 ---
 
