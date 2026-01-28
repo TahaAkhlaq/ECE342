@@ -1,7 +1,6 @@
 # ECE342 Electronics II
 
-This repository contains coursework and design work for **ECE342: Electronics II** at The Cooper Union, instructed by **Professor Neveen Shlayan** (Fall 2025). :contentReference[oaicite:0]{index=0}
-
+This repository contains coursework and design work for **ECE342: Electronics II** at The Cooper Union, instructed by **Professor Neveen Shlayan** (Fall 2025).
 ## Course Overview
 
 Electronics II emphasizes analog integrated-circuit design using MOSFET and BJT building blocks, with focus on biasing, small-signal modeling, frequency response, and multistage amplifier design in modern IC processes. 
